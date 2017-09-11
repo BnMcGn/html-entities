@@ -34,4 +34,4 @@ The special variable `*enable-sgml*` (nil by default) makes the encoding functio
 
 This library requires cl-ppcre.  It has only been tested with SBCL, but it doesn't have anything crazy that should cause trouble with other Common Lisp implementations.  Unicode might be a problem, I'm not sure how that's handled in other lisps.
 
-Html-entities was written by Aaron Sokoloski (asokoloski@gmail.com). The original repository is [here](https://code.google.com/archive/p/html-entities/)
+Html-entities was originally written by Aaron Sokoloski (asokoloski@gmail.com). The old repository is [here](https://code.google.com/archive/p/html-entities/)
